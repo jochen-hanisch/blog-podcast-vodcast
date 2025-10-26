@@ -5,7 +5,7 @@ created: 2024-10-21
 updated: 2024-10-21
 publish: false
 GPT: true
-publishd: 2025-06-03
+published: 2025-06-03
 tags:
   - "#Definition"
   - "#Bildungswissenschaft"

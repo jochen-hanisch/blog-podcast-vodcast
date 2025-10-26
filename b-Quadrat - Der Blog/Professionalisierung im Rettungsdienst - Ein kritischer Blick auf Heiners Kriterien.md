@@ -2,7 +2,7 @@
 author: Jochen Hanisch
 title: Professionalisierung im Rettungsdienst
 date: 2024-10-27
-updated: 
+updated:
 publish: true
 tags:
   - Akademisierung
@@ -17,7 +17,7 @@ tags:
   - Professionalisierung
   - Rettungsdienst
   - Standpunkt
-publishd: 2024-12-03
+published: 2024-12-03
 ---
 
 created: 27.10.2024 | updated: 3.12.2024 | [[Hinweise]]

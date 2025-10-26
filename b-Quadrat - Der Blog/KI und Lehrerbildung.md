@@ -43,36 +43,29 @@ Dieser Trend ist bereits heute erkennbar. Die Zahl unbesetzter Referendariatsste
 
 ```mermaid
 stateDiagram-v2
-    [*] --> KI : Nutzung
+    [*] --> KI : Einsatz
 
     %% Problemverlauf (Teufelskreis)
     KI --> Aufgabenfelder : reduziert
     Aufgabenfelder --> Erfahrungsräume : verringert
     Erfahrungsräume --> Ausbildung : verarmt
-    Ausbildung --> Nachwuchs : bleibt aus
+    Ausbildung --> Nachwuchs : fehlt
     Nachwuchs --> Lehrkräftemangel
-    Lehrkräftemangel --> KI : Rueckkopplung
+    Lehrkräftemangel --> KI : Kompensationsdruck
     Lehrkräftemangel --> [*] : Kollaps bei nicht-Eingreifen
 
     %% Interventionspfade
-	KI --> Systemerhalt : Steuerung
-    Aufgabenfelder --> Systemerhalt : Begleitung
+    KI --> Systemerhalt : Reflexion
+	Aufgabenfelder --> Systemerhalt : Steuerung
+    Erfahrungsräume --> Systemerhalt : Begleitung
     Ausbildung --> Systemerhalt : Beobachtung
-    Systemerhalt --> KI
+    Systemerhalt --> KI : Nutzung
 ```
 
 
 
-## Was jetzt zu tun ist
-
-Erklärung der Schnittstellen (**
-
-### **| cut |**
-
-### **)
-
-**
-
+> Zentrale Erkenntnis
+> Das System steuert in keiner Phase deterministisch auf Kollaps zu. Vielmehr besteht in jedem Abschnitt der Prozesskette die Möglichkeit zur Intervention – vorausgesetzt, Reflexion, Steuerung, Begleitung und Beobachtung werden als aktive Gestaltungsaufgaben wahrgenommen. Die Lehrerbildung bleibt damit nicht Opfer des Wandels, sondern kann zum steuernden Subjekt werden.
 #### **1. Zwischen C und D: Didaktische und organisatorische Steuerung des KI-Einsatzes**
 
   

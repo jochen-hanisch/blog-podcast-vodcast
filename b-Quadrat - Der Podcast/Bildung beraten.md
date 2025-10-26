@@ -16,7 +16,7 @@ publishd: 2024-12-03
 publish: true
 ---
 
-created: 25.01.2021 | updated: 03.12.2024 | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise]]
+created: 25.01.2021 | updated: 03.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Titel:** Bildung beraten  
 **Podcast:** b-Quadrat  
