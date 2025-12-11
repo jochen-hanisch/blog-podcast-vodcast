@@ -9,7 +9,7 @@ tags:
 published:
 ---
 
-created: 20.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/blog-podcast-vodcast): 20.9.2025 | published: .2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 20.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/blog-podcast-vodcast): 20.9.2025 | published: .2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 **Zukunft ohne Nachwuchs? Wie KI die Lehrerbildung verändert - und wie wir gegensteuern können**
 

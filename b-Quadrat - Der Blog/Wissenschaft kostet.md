@@ -15,7 +15,7 @@ date: 2023-03-07
 publish:
 ---
 
-created: 07.03.2023 | updated: 02.12.2024 | [[Hinweise]]
+created: 07.03.2023 | updated: 02.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 # Darf Wissenschaft etwas kosten?
 

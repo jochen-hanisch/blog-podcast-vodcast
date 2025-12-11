@@ -21,7 +21,7 @@ publish: false
 publishd: ""
 ---
 
-created: 29.12.2024 | updated: 29.12.2024 | [[Hinweise]]
+created: 29.12.2024 | updated: 29.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 # Wenn der Spaß den Fokus verschiebt
 

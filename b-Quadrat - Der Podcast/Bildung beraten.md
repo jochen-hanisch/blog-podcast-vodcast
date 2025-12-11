@@ -16,13 +16,127 @@ publishd: 2024-12-03
 publish: true
 ---
 
-created: 25.01.2021 | updated: 03.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 25.01.2021 | updated: 03.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
-**Titel:** Bildung beraten  
-**Podcast:** b-Quadrat  
-**Link:** [Zum Podcast auf Apple Podcasts](https://podcasts.apple.com/de/podcast/b-quadrat-nrwision/id1538734955?i=1000506553072&r=3519)
+## Kurzinfo
+- **Titel:** Bildung beraten  
+- **Podcast:** b-Quadrat  
+- **Link:** [Apple Podcasts](https://podcasts.apple.com/de/podcast/b-quadrat-nrwision/id1538734955?i=1000506553072&r=3519)  
+- **Hinweis:** Beitrag beschreibt Bildung als individuellen, kontinuierlichen Prozess zur Identitätsbildung und grenzt Beratung von Therapie ab. Schwerpunkt: systemische Beratung, moderne Bildungstheorien und historische Entwicklung.
 
->Dieser Beitrag beschreibt den Podcast "b-Quadrat" von Jochen Hanisch, der sich mit den Themen Bildung und Beratung auseinandersetzt. Hanisch betrachtet Bildung als einen individuellen, kontinuierlichen Entwicklungsprozess, der zur Identitätsbildung beiträgt. Er diskutiert verschiedene Bildungstheorien und die historische Entwicklung des Bildungsbegriffs. Der Podcast beleuchtet auch die Rolle der Beratung, die als Hilfeleistung verstanden wird, und unterscheidet zwischen Beratung und Therapie. Hanisch betont die Bedeutung der systemischen Beratung und die Notwendigkeit, dass Menschen ihre eigenen Lösungen finden. Der Podcast soll eine Plattform bieten, um Bildung und Beratung aus einer modernen, systemtheoretischen Perspektive zu betrachten.
+> Dieser Beitrag beschreibt den Podcast "b-Quadrat" von Jochen Hanisch, der sich mit den Themen Bildung und Beratung auseinandersetzt. Hanisch betrachtet Bildung als einen individuellen, kontinuierlichen Entwicklungsprozess, der zur Identitätsbildung beiträgt. Er diskutiert verschiedene Bildungstheorien und die historische Entwicklung des Bildungsbegriffs. Der Podcast beleuchtet auch die Rolle der Beratung, die als Hilfeleistung verstanden wird, und unterscheidet zwischen Beratung und Therapie. Hanisch betont die Bedeutung der systemischen Beratung und die Notwendigkeit, dass Menschen ihre eigenen Lösungen finden. Der Podcast soll eine Plattform bieten, um Bildung und Beratung aus einer modernen, systemtheoretischen Perspektive zu betrachten.
+
+#Podcast #b-Quadrat #Bildung #Beratung
+
+## Show Notes (NRWision-Teaser)
+»Bildung ist ein sehr individueller Prozess. Für Jochen Hanisch ist Bildung mehr, als zu lernen oder zur Schule zu gehen. Bildung bedeutet für ihn, gesellschaftlich Einfluss zu nehmen, sich in Umwelten zu bewegen und damit seine eigene Persönlichkeit zu entwickeln. Bildung ist also ein kontinuierlicher Entwicklungsprozess, aus dem die Identität hervorgeht. In seinem Podcast "b-Quadrat" spricht Jochen Hanisch über die Entwicklung des Bildungsverständnis und Theorien, mit denen sich Bildungswissenschaftler beschäftigen. Neben der Bildung geht es in "b-Quadrat" um die Beratung. Auch dieser Begriff wird diffus benutzt. Allgemein betrachtet geht es bei der Beratung um eine Hilfeleistung. Jochen Hanisch geht in seinem Podcast auf verschiedene Beratungsleistungen ein. Er erklärt, was im Fokus der Beratung steht und weshalb es ihm wichtig ist, dass der Mensch an sich eine für ihn gute Lösung findet. Der systemische Berater erklärt abschließend die Unterschiede zwischen Bildung und Beratung.« (https://www.nrwision.de/mediathek/b-quadrat-bildung-beraten-210125/) (25.01.2021 - 59 Min.)
+
+## Vorüberlegungen
+- Recherche der Epochen von Bildung
+- Intro vor dem Jingle: „Wusstet ihr, dass es Bildung und Beratung seit Anbeginn der Menschheit gibt? Das ist es, dem wir in der heutigen Folge auf den Grund gehen.“
+- Intro nach dem Jingle: „Hallo und herzlich Willkommen zur ersten Folge. Ich heiße Jochen Hanisch und freue mich auf unsere gemeinsame Zeit - lasst uns starten!“
+
+### Inhaltsbeschreibung
+- Im ersten Teil stelle ich mich selbst und das Format „b-Quadrat“ vor.
+- Begriffe Bildung und Beratung werden umrissen.
+- Umgang mit Bildungstechnologien.
+
+## Thema 1 – im Gespräch mit… mir selbst
+- „Auch wenn es ungewöhnlich erscheint, möchte ich das erste Gespräch dieser neuen Podcast-Reihe mir mir selbst führen.“
+- **Format:** Ein oder mehrere Gesprächspartner*innen, ein Thema pro Gespräch, ohne feste Vorgabe. Wünsche an <a href="mailto:online@jochen-hanisch.de" rel="noopener" class="external-link" target="_blank"><u>online@jochen-hanisch.de</u></a>.
+- **Vorstellung:** 50 Jahre alt; früher Fluggerätmechaniker; heute Bildungswissenschaftler, Systemischer Berater, Notfallsanitäter; agiler Vor-, Nach- & Alternativdenker; rast- & zeitloser Forscher.
+- **Forschungsprojekte:** #notsanumfrage (Erleben von Prüfungen, z.B. Staatsexamen Notfallsanitäter*in); Algorithmen in nicht-trivialen Systemen (Entscheidungshilfen in selbstorganisierten/autopoietischen Systemen); Systemische Interventionen in kritischen Situationen durch Hochverantwortungsvolle Teams (High-Responsibility-Teams in kritischen Situationen).
+- **Weitere Facetten:** Mensch mit Hund (August, Großer Schweizer Sennenhund in der Pubertät, angehendes Therapiebegleithundeteam, Einsatz in der systemischen Beratung); neuerdings Podcaster.
+- **Gründe für noch einen Podcast:** Ideen und Gedanken zu Bildung und Beratung teilen; Interesse an Austausch über unterschiedliche Perspektiven.
+
+## Thema 2 – Bildung und Beratung
+
+### Bildung
+- Bildung ist ein diffuser Begriff, verwandt mit Pädagogik und Erziehung.
+- Im Wandel der Zeit vielfältige Bedeutungen (Seel & Hanke, 2015); Perspektiven gehen ineinander über.
+- Eigener Podcast zu den einzelnen Epochen geplant.
+
+#### Begriffe und Synonyme
+- Bildungswissenschaft, Erziehungswissenschaft, Pädagogik, Bildung.
+- Erziehung: formale Ausbildungsgänge in der Schule.
+- Pädagogik: praktische Seite.
+- Bildungswissenschaft: Theorie und Praxis, interdisziplinär (Psychologie, Soziologie, Politikwissenschaft, Geistes- und Kulturwissenschaft).
+
+#### Kursfokus
+- Grundfragen der Bildungswissenschaft; Begründungen systematisierter Aussagen; Grundzüge geschichtlicher Pädagogik; Begründungen von Bildung, Erziehung und Sozialisation; Theorieansätze und Grundpositionen werden wissenschaftsthematisch dargestellt und kritisch diskutiert.
+
+#### Einführung in die Bildungswissenschaft
+- Bildung = Grundbegriff in Erziehungs- und Bildungswissenschaft, Soziologie, Germanistik, Geschichtswissenschaft.
+- Bildung musste sich immer wieder der Kritik stellen und hat vielfältige Bedeutungen.
+- Rückblick hilft, aktuelle Probleme der Bildung & Erziehung zu verstehen und heutige Begründungen einzuordnen.
+- Bildung = Subjekt-Welt-Relation; die genaue Relation ist Gegenstand kontroverser historischer und aktueller Diskussionen.
+
+#### Bildungstheorien
+- Materiale Bildungstheorien: gebildete Persönlichkeit besitzt bestimmtes Wissen und Kompetenzen; Bildung als Ergebnis individuellen Erwerbs; Inhalte unterliegen historischem Bedeutungswandel.
+- Formale & funktionale Bildungstheorien: beschreiben Fähigkeiten & Kompetenzen, ohne Inhalte festzulegen.
+- Kategoriale Bildung (Wolfgang Klafki): wechselseitige Erschließung von Subjekt und Welt; Versuch, materialer und formaler Bildungstheorie zusammenzuführen.
+
+#### Bildungsphilosophische Ansätze
+- Traditionelle Ansätze: Bildung als individueller Prozess, kontinuierliche Entfaltung/Entwicklung/Identität.
+- Ehrenspeck: klassische Bildsamkeit = lebenslanges Lernen.
+- Höherbildung: individuelle Bildung führt zur Höherbildung der Gattung Mensch.
+- Institutionalisierte Bildung: Aktivität bildender Institutionen und Personen (Schleiermacher, Humboldt).
+- Pädagogik: Theorie der Erziehung und Bildung.
+
+#### Grundfragen und Themen
+- Ursprung: Seit wann gibt es Pädagogik? Selbstverständnis? Fremdbeurteilung? Zielsetzungen?
+- Themen und Gegenstände: Welche Themen wurden gewählt, wie umschrieben, hergeleitet und verknüpft?
+- Methoden: Welche Methoden nutzt die Pädagogik zur Beantwortung ihrer Fragen?
+- Aufbau/Systematik: Wie ist die Pädagogik strukturiert?
+- Themenkreise = pädagogische Differenzierungen: Sozialisation, Erziehung, Schule, Unterricht, Bildung.
+
+#### Wissenschaftlichkeit und Begründungen
+- Wissenschaftliche Aussagen (Lehrsätze, Theoreme); metatheoretische Fragen zu Grundlagen und Rechtfertigungen.
+- Systematische Begründungen: gesellschaftliche, ökonomische, philosophische, theologische, ethische, anthropologische, sozialisationstheoretische, anthroposophische, politökonomische.
+- Historische Begründungen: Erinnerung an vergessene Lösungen; Bewusstmachen klassischer Lehren; heutiges Verständnis hinterfragen; Geschichte als Maßstab jenseits aktueller Empirie.
+
+#### Antithesen (Spannungsfelder)
+- Theokratie – Anthropokratie; Religiösität – Wissenschaftlichkeit; absolutes Wissen – überholbare Erkenntnis; Gedanklichkeit/Wissen/Erkenntnis – Willentlichkeit; Weltbetrachter – Weltvollender; rein menschliche Bildung – Zweckmittelbildung; Bildung – Ausbildung; Individualität als Unwesentliches – Individualität als Maß aller Dinge; Personalität – Individualismus; Humanistische Einsicht/gedankliche Begründung/Folgerichtigkeit/Objektivität – Emotion/Affekt/Parteilichkeit/Subjektivität; Selbstsein – Entfremdung (Herrschaft des Lohnes); Selbstlosigkeit – Selbstsucht; Kindsein/Jugend – Alter.
+
+#### Methoden
+- Historisch = diachrone Methode; experimentell = synchrone Methode.
+- Methoden der Erziehungswissenschaft: empirische, experimentelle, synchrone Methoden; historische/diachrone Methoden nur beiläufig.
+- Methoden der Pädagogik: historische/diachrone Methode; gebunden an Historie und Philosophie; normativ.
+- Vorwürfe der Erziehungswissenschaft an die Pädagogik: geringe Praxisrelevanz, theoretische Unsicherheit, geringe Verifizierbarkeit, inexakte Methoden.
+
+#### Interpretationen und Bedeutung
+- Pädagogik als Berufswissenschaft der Lehrenden: kritisch, da Wissenschaft unabhängig vom Berufsbild sein sollte; der Lehrerberuf kann durch Pädagogik begründet werden, umgekehrt nicht.
+- Erziehungswissenschaft als Handlungswissenschaft: erforscht und unterstützt erzieherisches Handeln; kritisch, weil Theorie von Praxis bewertet wird.
+- Pädagogik als Bildungstheorie: historische Voraussetzungen dürfen nicht weggelassen werden; Erziehungswissenschaft sollte in Sozialisationstheorie eingebunden sein; Gedanke der Bildung rückt in den Vordergrund.
+- Bereiche der Pädagogik: Schulpädagogik, Erwachsenenbildung, Berufspädagogik, Sonderpädagogik.
+
+### Beratung
+- Beratung als Hilfeleistung, meist durch Sozialpädagog*innen/Psycholog*innen; oft fließender Übergang zu Therapie. Fokus auf Prävention; Beratung steht im Kontext von Entwicklungs-, Anpassungs- und Rollendefinitionsaufgaben. Kontexte: Erziehung, Schule, Beruf, Familien-, Ehe-, Sexualberatung. Theoretische Bezüge: Psychoanalyse, Verhaltenstheorien, humanistische Gesprächsführung, Systemtheorie (Böhm & Grell, 2005; Tenorth & Tippelt, 2007).
+- Potentialentfaltung: Prozess, der Menschen mit Werkzeugen, Wissen und Möglichkeiten ausstattet, um sich weiterzuentwickeln (König & Volmer, 2012, nach Peterson/Hicks 1996). Coaching als personenzentrierter Beratungs- und Betreuungsprozess, beruflich wie privat, zeitlich begrenzt (König & Volmer, 2012; Rauen 2001). Coaching als klientenzentriertes, individuelles Betreuungskonzept zur Optimierung aller Kräfte und Potentiale (Böning, 2005, nach Schmidt 1995). Veränderungsbereitschaft entsteht bei Leidensdruck (Inkongruenz zwischen Erleben und Erwartungen) und kann Wunsch nach Veränderung auslösen (Eckert & Biermann-Ratjen, 2012).
+- Begriffe und Definitionen bilden den Verständniskorridor für alle weiteren Überlegungen.
+
+#### Möglichkeiten und Verständnis von Beratung
+- Gewandeltes Beratungsverständnis: mehr mediale Aufmerksamkeit, Beratung als eigenes Arbeitsfeld; neue Forschung revidiert reine Informationsvermittlung hin zu Begleitung bei Klärung und Lösungsprozessen. Beratungsbereiche: Organisationsberatung, Managementberatung, Beratung als Therapie.
+- Tradition in Pädagogik, sozialer Arbeit und psychosozialen Berufen. Selbstverständnis oft noch informationszentriert. Erweiterung: Fokus auf ratsuchende Klient*innen, Berater*innen als Prozessexpert*innen, die Kommunikation und Handlungen begleiten.
+- Präzisierungen gegenüber Klient*innen: Klärung von Anliegen; Hilfe bei Orientierung; Unterstützung bei Entscheidungsprozessen; Planungen auf Wirksamkeit/Nachhaltigkeit prüfen; Handlungshilfe; Informationen nachsteuern oder beschaffen.
+- Umweltbedingungen der Beratung berücksichtigen; eingesetzte Sichtweisen/Methoden/Verfahren stammen u.a. aus Pädagogik, Psychologie, Soziologie. Konzepte finden breite Anwendung, weil mit Menschen gearbeitet wird.
+
+## Thema 3 – mein Standpunkt: Bildungstechnologien
+- **Kernaussage:** Wir handeln notwendig und sinnvoll.
+- **Grundprämissen:** „So wenig wie möglich, so viel wie nötig.“ Gestützt auf valide Untersuchungen, Gütekriterien und laufende Evaluation realer Lehr-/Lernarchitekturen.
+- **Irritationen:** Technische „Hamsterkäufe“ bei neuen Medien erzeugen Regression, wenn Menschen Tools nicht sinnvoll nutzen können; Gewinner sind die Hersteller, Verlierer Lehrende und Lernende.
+- **Schlüssel:** Versuchungen widerstehen, Demut bewahren, auch wenn Budget da wäre. Erfolgsdarstellung über Lernende wichtiger als Geräte-Show.
+- **Fragen:** Welche Einrichtung hat Maßnahmen vorab wissenschaftlich abgesichert? Stand heute kaum Evaluation, weder bei Schulen noch Trägern oder Weiterbildungsanbietern.
+- **Systemischer Blick:** Was funktioniert, sollten wir tun; was nicht, lassen. Viele parallele Technologien, wenig Analyse im jeweiligen Organisationskontext; Nutzen entscheidet der Einsatz durch Menschen, nicht Anbieter.
+- **Was ist zu tun?** Menschen mitnehmen – nur Technologien einsetzen, die für die Einrichtung geeignet sind; Einweisung in Funktion plus didaktische Einbindung (oft vergessen).
+- **Beispiel:** Fahranfänger + Formel1-Bolide = geringe Erfolgswahrscheinlichkeit; vergleichbar mit unpassenden EdTech-Ausrollungen.
+- **Neugier als Treiber:** Mehr Erfolg mit ein bis zwei Tools statt vieler; frustrane Erlebnisse erhöhen Widerstand.
+- **Handlungsaufruf:** Tools mit didaktisch guten Inhalten füllen, Begeisterung über Kosten-Nutzen, Rahmenbedingungen schaffen. Gefahr der Eigendynamik wie in jedem lebenden, psychischen und sozialen System.
+- **Outro-Idee:** „Vielen Dank fürs Reinhören! Conclusio: Jetzt wißt ihr, wie man [alles einfügt, was wir euch in der Show gezeigt haben und warum es so wichtig ist]! Ich freue mich schon auf unsere nächste gemeinsame Folge und bis dahin alles Gute!」
+- **CTA:** „Welche Erkenntnisse habt Ihr aus dieser Folge gewinnen können? Vielleicht möchtet Ihr diese in den Kommentaren reinschreiben?“ / „Und hinterlasst mir gerne ein Like und empfiehlt mich weiter…“
+- **Teaser für die nächste Episode:** „Beim nächsten Mal werden wir [Thema 1] und [Thema 2] untersuchen … Vergesst nicht, den Podcast zu abonnieren, damit ihr keine einzige Folge verpasst!“ / „In der nächsten Folge schauen wir uns an, was es zum Thema Lernen an neueren Erkenntnissen gibt.“
+
+# Transkript:
 
 **D**er Podcast rund um die Themen Bildung und Beratung. Wusstet ihr, dass es Bildung und Beratung seit Anbeginn der Menschheit gibt? Das ist es, dem wir in der heutigen Folge auf den Grund gehen werden.
 
