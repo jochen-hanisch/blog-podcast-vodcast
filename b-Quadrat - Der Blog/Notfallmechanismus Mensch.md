@@ -1,6 +1,11 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Der Mensch als deterministisch autonomisiertes Notfallsystem
+Repository:
+created: 2025-02-08
+updated: 2025-12-26
+publish: true
+published: 2025-02-09
 tags:
  - [[Systemdeterminismus]]
  - Determinismus
@@ -35,13 +40,9 @@ tags:
  - Dynamik
  - Zukunft
  - Menschheit
-date: 2025-02-08
-updated: 2025-02-09
-publish: true
-publishd: 2025-02-09
 ---
 
-created: 8.2.2025 | updated: 9.2.2025 | published: 9.2.2025 | [[Hinweise]]
+created: 8.2.2025 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **S**ystemdeterminismus ist die logische Schlussfolgerung aus der Erkenntnis, dass alle beobachtbaren Prozesse im Universum deterministischen Gesetzmäßigkeiten unterliegen. Dies führt zur zentralen Frage: **Welche Rolle spielt der Mensch in diesem System?**
 

@@ -1,9 +1,11 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Professionalisierung im Rettungsdienst
-date: 2024-10-27
-updated:
+Repository:
+created: 2024-10-27
+updated: 2025-12-26
 publish: true
+published: 2024-12-03
 tags:
   - Akademisierung
   - Beratung
@@ -17,10 +19,9 @@ tags:
   - Professionalisierung
   - Rettungsdienst
   - Standpunkt
-published: 2024-12-03
 ---
 
-created: 27.10.2024 | updated: 3.12.2024 | [[Hinweise]]
+created: 27.10.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **D**er Blog-Beitrag zeigt auf, dass ein Schritt in Richtung Professionalisierung im Rettungsdienst noch keine vollständige Professionalisierung darstellt. Die aktuellen Bemühungen, den Beruf des Notfallsanitäters zu professionalisieren, reichen nicht aus, um den Status einer vollwertigen Profession zu erreichen. Anhand der Kriterien von Heiner (2004) und anderen Theorien, wie denen von Eliot Freidson und Harold Wilensky, wird erläutert, welche Defizite bestehen und welche Maßnahmen notwendig sind, um eine echte Professionalisierung zu erreichen.
 

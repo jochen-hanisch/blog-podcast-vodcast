@@ -1,6 +1,11 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Interdependenz in Gefahr – Wie die STOP-Regel Teams stabilisiert
+Repository:
+created: 2024-12-29
+updated: 2025-12-26
+publish: false
+published: ""
 tags:
   - Bildungswissenschaft
   - Blog
@@ -15,13 +20,9 @@ tags:
   - Gesundheitswesen
   - STOP-Regel
   - Teamdynamik
-date: 2024-12-29
-updated: 2024-12-29
-publish: false
-publishd: ""
 ---
 
-created: 29.12.2024 | updated: 29.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 29.12.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Wenn der Spaß den Fokus verschiebt
 

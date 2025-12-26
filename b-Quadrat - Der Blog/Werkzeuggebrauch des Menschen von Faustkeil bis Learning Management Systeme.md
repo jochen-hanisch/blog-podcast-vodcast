@@ -1,10 +1,10 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Der Werkzeuggebrauch des Menschen von Faustkeil bis Learning Management Systeme
+Repository:
 created: 2024-10-21
-updated: 2024-10-21
+updated: 2025-12-26
 publish: false
-GPT: true
 published: 2025-06-03
 tags:
   - "#Definition"
@@ -12,8 +12,9 @@ tags:
   - "#Lernprozess"
   - "#Werkzeuggebrauch"
   - "#Kooperation"
-status: post
 ---
+
+created: 21.10.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 

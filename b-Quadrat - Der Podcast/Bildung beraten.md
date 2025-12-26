@@ -1,8 +1,11 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "b-Quadrat | NRWision: Bildung beraten"
-cssclasses:
-  - blog-academic
+Repository:
+created: 2024-10-27
+updated: 2025-12-26
+publish: true
+published: 2024-12-03
 tags:
   - Beratung
   - Bildung
@@ -11,12 +14,9 @@ tags:
   - Forschung
   - Kompetenzentwicklung
   - Podcast
-date: 2024-10-27
-publishd: 2024-12-03
-publish: true
 ---
 
-created: 25.01.2021 | updated: 03.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 27.10.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 ## Kurzinfo
 - **Titel:** Bildung beraten  

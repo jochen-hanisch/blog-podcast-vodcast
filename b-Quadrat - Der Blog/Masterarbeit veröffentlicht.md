@@ -1,6 +1,11 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: Masterarbeit veröffentlicht
-author: Jochen Hanisch
+Repository:
+created: 2023-09-08
+updated: 2025-12-26
+publish: true
+published: 2023-09-08
 tags:
   - Agilität
   - bQuadrat
@@ -12,10 +17,9 @@ tags:
   - Lernen
   - Rettungsdienst
   - Scrum
-date: 2023-09-08
-publishd: 2023-09-08
-publish: true
 ---
+
+created: 8.9.2023 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 creadted: 08.09.2023 | updated: 02.12.2024
 

@@ -1,6 +1,11 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: Wissenschaft kostet
-author: Jochen Hanisch
+Repository:
+created: 2023-03-07
+updated: 2025-12-26
+publish: false
+published:
 tags:
   - Akademisierung
   - Beratung
@@ -11,11 +16,9 @@ tags:
   - Professionalisierung
   - Standpunkt-
   - Wissenschaft
-date: 2023-03-07
-publish:
 ---
 
-created: 07.03.2023 | updated: 02.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 7.3.2023 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Darf Wissenschaft etwas kosten?
 
