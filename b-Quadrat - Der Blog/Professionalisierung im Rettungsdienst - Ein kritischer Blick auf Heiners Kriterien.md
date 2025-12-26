@@ -20,7 +20,7 @@ tags:
 published: 2024-12-03
 ---
 
-created: 27.10.2024 | updated: 3.12.2024 | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 27.10.2024 | updated: 3.12.2024 | [[Hinweise]]
 
 **D**er Blog-Beitrag zeigt auf, dass ein Schritt in Richtung Professionalisierung im Rettungsdienst noch keine vollständige Professionalisierung darstellt. Die aktuellen Bemühungen, den Beruf des Notfallsanitäters zu professionalisieren, reichen nicht aus, um den Status einer vollwertigen Profession zu erreichen. Anhand der Kriterien von Heiner (2004) und anderen Theorien, wie denen von Eliot Freidson und Harold Wilensky, wird erläutert, welche Defizite bestehen und welche Maßnahmen notwendig sind, um eine echte Professionalisierung zu erreichen.
 

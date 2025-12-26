@@ -24,7 +24,7 @@ tags:
 publishd: ""
 ---
 
-created: 8.6.2025 | [updated](https://git.jochen-hanisch.de/b-Quadrat/der-blog/commits/branch/main/Radikaler%20Epistemolismus.md) | publishd: 8.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/mod/forum/view.php?id=33) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 8.6.2025 | [updated](https://git.jochen-hanisch.de/b-Quadrat/der-blog/commits/branch/main/Radikaler%20Epistemolismus.md) | publishd: 8.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/mod/forum/view.php?id=33) | [[Hinweise]]
 
 **Radikaler Epistemolismus – Eine systemische Einladung zur vollständigen Sichtbarkeit des Denkens**
 

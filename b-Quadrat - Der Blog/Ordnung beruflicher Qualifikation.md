@@ -8,4 +8,4 @@ publish: false
 publishd:
 ---
 
-created: 25.12.2025 | updated: 25.12.2025 | published:  | [[Hinweise]]
+created: 25.12.2025 | updated: 25.12.2025 | published: | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast) | [[Hinweise]]
