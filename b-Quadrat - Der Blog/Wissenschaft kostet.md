@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Wissenschaft kostet
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2023-03-07
 updated: 2025-12-26
 publish: false
@@ -18,7 +18,9 @@ tags:
   - Wissenschaft
 ---
 
-created: 7.3.2023 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 7.3.2023 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+
+**Wissenschaft kostet**
 
 # Darf Wissenschaft etwas kosten?
 

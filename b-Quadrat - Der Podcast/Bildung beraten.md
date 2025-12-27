@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: "b-Quadrat | NRWision: Bildung beraten"
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2024-10-27
 updated: 2025-12-26
 publish: true
@@ -16,7 +16,9 @@ tags:
   - Podcast
 ---
 
-created: 27.10.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 27.10.2024 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+
+**b-Quadrat | NRWision: Bildung beraten**
 
 ## Kurzinfo
 - **Titel:** Bildung beraten  

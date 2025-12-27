@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Zukunft ohne Nachwuchs? Wie KI die Lehrerbildung verändert und wie wir gegensteuern können
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/blog-podcast-vodcast
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2025-09-20
 updated: 2025-12-26
 publish: false
@@ -9,7 +9,7 @@ published:
 tags:
 ---
 
-created: 20.9.2025 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 20.9.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Zukunft ohne Nachwuchs? Wie KI die Lehrerbildung verändert - und wie wir gegensteuern können**
 

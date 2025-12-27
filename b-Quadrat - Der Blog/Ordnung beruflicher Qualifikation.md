@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: NotSanG und NotSan-APrV als eigenständige Ordnung beruflicher Qualifikation
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2025-12-25
 updated: 2025-12-26
 publish: false
@@ -9,7 +9,7 @@ published:
 tags:
 ---
 
-created: 25.12.2025 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 25.12.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **NotSanG und NotSan-APrV als eigenständige Ordnung beruflicher Qualifikation**
 

@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Interdependenz in Gefahr – Wie die STOP-Regel Teams stabilisiert
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2024-12-29
 updated: 2025-12-26
 publish: false
@@ -22,7 +22,9 @@ tags:
   - Teamdynamik
 ---
 
-created: 29.12.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 29.12.2024 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+
+**Interdependenz in Gefahr – Wie die STOP-Regel Teams stabilisiert**
 
 # Wenn der Spaß den Fokus verschiebt
 

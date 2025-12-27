@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Masterarbeit veröffentlicht
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2023-09-08
 updated: 2025-12-26
 publish: true
@@ -19,7 +19,9 @@ tags:
   - Scrum
 ---
 
-created: 8.9.2023 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 8.9.2023 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+
+**Masterarbeit veröffentlicht**
 
 creadted: 08.09.2023 | updated: 02.12.2024
 

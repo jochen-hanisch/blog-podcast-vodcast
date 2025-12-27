@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Sicherheitsrichtlinie für Blog, Podcast & Vodcast
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2025-10-28
 updated: 2025-12-26
 publish: false
@@ -9,9 +9,9 @@ published:
 tags:
 ---
 
-created: 28.10.2025 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 28.10.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
-# Sicherheitsrichtlinie für Blog, Podcast & Vodcast
+**Sicherheitsrichtlinie für Blog, Podcast & Vodcast**
 
 Diese Richtlinie legt Standards für Informationssicherheit, Datenschutz und verantwortungsvolle Veröffentlichung in allen Projekten des Bereichs „Blog-Podcast-Vodcast“ fest. Sie gilt für Redaktionsmitglieder, externe Beitragende und technische Partner:innen.
 

@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Der Werkzeuggebrauch des Menschen von Faustkeil bis Learning Management Systeme
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2024-10-21
 updated: 2025-12-26
 publish: false
@@ -14,7 +14,9 @@ tags:
   - "#Kooperation"
 ---
 
-created: 21.10.2024 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 21.10.2024 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+
+**Der Werkzeuggebrauch des Menschen von Faustkeil bis Learning Management Systeme**
 
 # 1 Definition
 

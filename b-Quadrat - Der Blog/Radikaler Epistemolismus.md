@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Radikaler Epistemolismus – Eine systemische Einladung zur vollständigen Sichtbarkeit des Denkens
-Repository:
+Repository: https://github.com/jochen-hanisch/blog-podcast-vodcast
 created: 2025-06-08
 updated: 2025-12-26
 publish: true
@@ -25,7 +25,7 @@ tags:
   - Epistemolismus
 ---
 
-created: 8.6.2025 | [updated](): 26.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://lernen.jochen-hanisch.de/mod/forum/view.php?id=33) | [[Hinweise]]
+created: 8.6.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Radikaler Epistemolismus – Eine systemische Einladung zur vollständigen Sichtbarkeit des Denkens**
 
