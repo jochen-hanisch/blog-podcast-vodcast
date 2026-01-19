@@ -18,7 +18,7 @@ tags:
   - Wissenschaft
 ---
 
-created: 7.3.2023 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 7.3.2023 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Wissenschaft%20kostet.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Wissenschaft kostet**
 

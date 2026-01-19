@@ -19,7 +19,7 @@ tags:
   - Scrum
 ---
 
-created: 8.9.2023 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 8.9.2023 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Masterarbeit%20vero%CC%88ffentlicht.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Masterarbeit veröffentlicht**
 

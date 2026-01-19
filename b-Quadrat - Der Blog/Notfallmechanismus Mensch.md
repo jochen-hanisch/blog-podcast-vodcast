@@ -42,7 +42,7 @@ tags:
  - Menschheit
 ---
 
-created: 8.2.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 8.2.2025 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Notfallmechanismus%20Mensch.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **S**ystemdeterminismus ist die logische Schlussfolgerung aus der Erkenntnis, dass alle beobachtbaren Prozesse im Universum deterministischen Gesetzmäßigkeiten unterliegen. Dies führt zur zentralen Frage: **Welche Rolle spielt der Mensch in diesem System?**
 

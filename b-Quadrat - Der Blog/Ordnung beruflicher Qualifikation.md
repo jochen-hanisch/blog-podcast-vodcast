@@ -9,7 +9,7 @@ published:
 tags:
 ---
 
-created: 25.12.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 25.12.2025 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Ordnung%20beruflicher%20Qualifikation.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **NotSanG und NotSan-APrV als eigenständige Ordnung beruflicher Qualifikation**
 

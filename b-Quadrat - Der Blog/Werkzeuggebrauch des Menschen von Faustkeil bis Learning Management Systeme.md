@@ -14,7 +14,7 @@ tags:
   - "#Kooperation"
 ---
 
-created: 21.10.2024 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 21.10.2024 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Werkzeuggebrauch%20des%20Menschen%20von%20Faustkeil%20bis%20Learning%20Management%20Systeme.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Der Werkzeuggebrauch des Menschen von Faustkeil bis Learning Management Systeme**
 

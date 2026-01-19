@@ -21,7 +21,7 @@ tags:
   - Standpunkt
 ---
 
-created: 27.10.2024 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 27.10.2024 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Professionalisierung%20im%20Rettungsdienst%20-%20Ein%20kritischer%20Blick%20auf%20Heiners%20Kriterien.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Professionalisierung im Rettungsdienst**
 

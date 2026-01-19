@@ -25,7 +25,7 @@ tags:
   - Epistemolismus
 ---
 
-created: 8.6.2025 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 8.6.2025 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Radikaler%20Epistemolismus.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Radikaler Epistemolismus – Eine systemische Einladung zur vollständigen Sichtbarkeit des Denkens**
 

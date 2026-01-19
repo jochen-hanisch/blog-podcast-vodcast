@@ -22,7 +22,7 @@ tags:
   - Teamdynamik
 ---
 
-created: 29.12.2024 | updated 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
+created: 29.12.2024 | [updated](https://github.com/jochen-hanisch/blog-podcast-vodcast/commits/main/Blog-Podcast-Vodcast/b-Quadrat%20-%20Der%20Blog/Stop%20stabilisiert%20Interdependenz.md): 26.12.2025 | [published](https://zenodo.org/records/###): | [Austausch](https://github.com/jochen-hanisch/blog-podcast-vodcast/discussions) | [[Hinweise]]
 
 **Interdependenz in Gefahr – Wie die STOP-Regel Teams stabilisiert**
 
